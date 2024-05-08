@@ -1,16 +1,29 @@
-# tp_flutter_intro
+# Flutter Stateful Widget Demo
 
-First flutter app in mobile dev module.
+This repository contains a simple demonstration of a stateful widget with a drawer menu built with Flutter.
+
+## Overview
+
+This Flutter project demonstrates the implementation of a basic stateful widget in Flutter. It showcases how to manage and update the state of a widget in response to user interactions or other events.
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+
+*Main screen*
+
+![Screenshot 2](screenshots/screenshot2.png)
+
+*Drawer menu*
+
+![Demo](screenshots/demo.gif)
+
+*Quick demo*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/Aminebd-39/flutter-stateful-widget-demo.git
