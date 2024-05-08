@@ -1,3 +1,4 @@
+!! Note : This project is for academic purposes only
 # Flutter Stateful Widget Demo
 
 This repository contains a simple demonstration of a stateful widget with a drawer menu built with Flutter.
